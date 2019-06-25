@@ -10,6 +10,5 @@ min_value = nil
     min_value = value
   end
  end
-end
  name
 end
